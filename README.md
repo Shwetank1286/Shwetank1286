@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working at **SkillVertax**
 
-- 🌱 I’m currently learning full-stack **development**
+- 🌱 I’m currently learning **full-stack development**
 
-- 👯 I’m looking for a new role **as web developer**
+- 👯 I’m looking for a new role as **web developer**
 
 - 👨‍💻 All of my projects are available at [https://shwetank1286.github.io/portfolio/](https://shwetank1286.github.io/portfolio/)
 
